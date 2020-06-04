@@ -5,4 +5,4 @@ This is a KAggle dataset
 link - https://www.kaggle.com/c/digit-recognizer.
 
 
-You predict your image by simply operating the prediction.py file.
+You can predict your image by simply operating the prediction.py file.
